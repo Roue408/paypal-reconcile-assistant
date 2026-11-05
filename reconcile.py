@@ -1,6 +1,6 @@
 """PayPal transaction reconciliation core (Python standard library only).
 
-Fresh code written for the PayPal AI Hackathon entry. No XCell material.
+Fresh code written for the PayPal AI Hackathon entry.
 Explanations are rule-based and labeled as such; an optional LLM explainer
 is a clearly-marked TODO for the operator's own API key, off by default.
 """

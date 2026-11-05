@@ -50,7 +50,6 @@ Tests:
 - Public repo with license + README (entry must be public/open-source; this
   tool can never be sold closed later — accepted for this entry only).
 - Read the Devpost rules-tab license grant before submitting (unverified).
-- No XCell material anywhere in this repo.
 
 ## Notes
 

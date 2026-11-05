@@ -1,0 +1,6 @@
+Date,Name,Type,Status,Currency,Gross,Fee,Net,Transaction ID
+2026-10-01,Acme Corp,Payment,Completed,USD,100.00,-2.90,97.10,TXN001
+2026-10-02,Acme Corp,Payment,Completed,USD,100.00,-2.90,97.10,TXN001
+2026-10-03,Beta LLC,Refund,Completed,USD,-50.00,0.00,-50.00,TXN002
+2026-10-04,Gamma Inc,Payment,Completed,USD,20.00,-0.50,19.00,TXN003
+2026-10-05,Delta Co,Payment,Pending,USD,30.00,-0.90,29.10,TXN004

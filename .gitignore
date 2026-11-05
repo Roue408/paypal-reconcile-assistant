@@ -1,0 +1,4 @@
+# Never commit credentials or generated output (this repo goes public).
+sandbox_config.json
+out/
+__pycache__/
